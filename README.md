@@ -24,5 +24,5 @@ The goal of the Vrinda Store Annual Report project is to analyze sales data and 
 4. Amazon, Myntra and Flipkart channel are max contributing, generating 80% of total revenue
 
 ### Conclusion to improve Vrinda store sales:
-Target Women customers of Age Group(30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons avilable on Amazon, Flipkart, Myntra
+Target Women customers of Age Group(30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, Myntra
 etc.
